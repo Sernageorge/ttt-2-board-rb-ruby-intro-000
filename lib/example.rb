@@ -5,5 +5,7 @@ def greeting
 end
 
 greeting
+space=" "
+puts space
 
 greeting
