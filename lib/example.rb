@@ -3,3 +3,5 @@ def greeting
   puts "How old are you?"
   13000000000-8000000000
 end
+
+greeting
