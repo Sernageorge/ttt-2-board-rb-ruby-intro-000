@@ -14,6 +14,6 @@ end
 
 say_hello_world_ten_time
 
-"Say hello Back"
-
+reply = "Say hello Back"
+puts reply
 say_hello_world_ten_time
