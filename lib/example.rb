@@ -1,19 +1,5 @@
-def say_hello_world_ten_time
-phrase = "hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+def greeting
+  puts "Hello World!"
+  puts "How old are you?"
+  13000000000-8000000000
 end
-
-say_hello_world_ten_time
-
-reply = "Say hello Back"
-puts reply
-#say_hello_world_ten_time
